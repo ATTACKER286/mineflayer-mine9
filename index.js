@@ -10,7 +10,7 @@ const config = {
   version: '1.12',
   username: 'AT_nether_bot9',
   password: 'abdu2006',
-  loginPassword: '90790790',
+  loginPassword: '',
    controller: 'ATTACKER'
 };
 
